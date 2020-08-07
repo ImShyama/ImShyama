@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Shyamanand Pandit,
-A software engineer 👨‍💻 who is passionate about Web Development and Data Science. I'm also a self proclaimed web designer and internet surfer 
+A software engineer 👨‍💻 who is passionate about Web Development and Data Science. I'm also a self proclaimed web developer and internet surfer 
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Web Development
