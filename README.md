@@ -21,3 +21,8 @@ Here are some ideas to get you started: -->
     <a href="https://twitter.com/pshyama96"><img alt="Twitter" src="https://github.com/ImShyama/ImShyama/blob/master/data/twitter.svg" title="Twitter" width="100" height="40" /></a>
 </p>
 <hr \>
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+</p> 
