@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Shyamanand Pandit,
-A software engineer 👨‍💻 who is passionate about Web Development and Data Science. I'm also a self proclaimed web developer and internet surfer 
+A software engineer 👨‍💻 who is passionate about Data Science and Web Development. I'm also a self proclaimed Data Analysis and internet surfer 
 🏄‍♂️. 
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about: tech, memes, anime
+- 🔭 I’m currently working on Data Analysis with Python.
+- 🌱 I’m currently learning Numpy.
+- 💬 Ask me about: tech, python, web development.
 - 😄 Pronouns: he/him
-- ⚡ Languages: JavaScript, Python3, PHP
+- ⚡ Languages: Python3, PHP, JavaScript
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/shyamapandit/"><img alt="Linkedin profile" title="Linkedin" src="https://github.com/ImShyama/ImShyama/blob/master/data/linkedin.svg" width="100" height="35" /></a>
