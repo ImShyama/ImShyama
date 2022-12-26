@@ -1,5 +1,4 @@
-### Hi there 👋 
-### I'm Shyamanand Pandit,
+### Hi there 👋 I'm Shyamanand Pandit,
 A software developer 👨‍💻 who is passionate about Software Development. I'm also a self proclaimed JavaScript and internet surfer 
 🏄‍♂️. 
 
