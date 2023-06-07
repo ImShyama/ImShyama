@@ -3,10 +3,10 @@ A software developer 👨‍💻 who is passionate about Software Development. I
 🏄‍♂️. 
 
 - 🔭 I’m currently working on JavaScripts and Google Apps Scripts.
-- 🌱 I’m currently learning React.
-- 💬 Ask me about: JavaScript, Apps Scripts, web development and many more.
+- 🌱 I’m currently learning MERN Stack.
+- 💬 Ask me about: JavaScript, Apps Scripts, React, Express, Node, Mongodb, web development and many more.
 - 😄 Pronouns: he/him
-- ⚡ Languages: JavaScript, Apps Scripts, Python, PHP, Java And C.
+- ⚡ Languages: JavaScript, Apps Scripts, React, Node, Mongodb And MySql.
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/shyamapandit/"><img alt="Linkedin profile" title="Linkedin" src="https://github.com/ImShyama/ImShyama/blob/master/data/linkedin.svg" width="100" height="35" /></a>
