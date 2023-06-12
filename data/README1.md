@@ -23,7 +23,7 @@ I'm Shyamanand Pandit, a software developer with a keen interest in JavaScript a
 
 ### Skills
 
-- Programming Languages: JavaScript
+- Programming Languages: JavaScript, Apps Scripts, Python
 - Frameworks/Libraries: React, Express
 - Backend: Node.js
 - Databases: MongoDB, MySQL
@@ -32,9 +32,9 @@ I'm Shyamanand Pandit, a software developer with a keen interest in JavaScript a
 
 Here are some of the projects I've worked on:
 
-1. Project 1 - A web application built with React and Node.js, using MongoDB as the database.
-2. Project 2 - A Google Apps Script for automating repetitive tasks in Google Sheets.
-3. Project 3 - A RESTful API developed with Node.js and Express, integrating with a MySQL database.
+1. CRUD APP - A web application built with React and Node.js, using MongoDB as the database.
+2. WhatsApp Scheduling - A Google Apps Script for automating repetitive tasks from Google Sheets.
+3. HR Application - A RESTful API developing with Node.js and Express, integrating with a MongoDB database.
 
 ### Contact Me
 
